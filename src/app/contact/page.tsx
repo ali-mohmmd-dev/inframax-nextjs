@@ -46,7 +46,7 @@ export default function Contact() {
 
       {/* HERO BANNER SECTION */}
       <section className="w-full relative overflow-hidden bg-black flex items-center">
-       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/contact-header-image.png')"}}></div>
+       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/contact-header-image.webp')"}}></div>
        <div className="hero-overlay"></div>
        <div className="container mx-auto px-4 relative z-10 w-full">
         <div className="pt-[80px] pb-[130px] md:pb-[150px] min-h-[440px] md:min-h-[700px] flex items-center justify-center text-center">

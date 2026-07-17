@@ -14,7 +14,7 @@ export default function RoadCrossing() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-road-crossing-header.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-road-crossing-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[400px] flex items-end justify-center text-center">
@@ -48,7 +48,7 @@ export default function RoadCrossing() {
 
     {/*  Right Hand Side Operational Frame Block  */}
     <div className="w-full shadow-sm bg-gray-50 overflow-hidden relative min-h-[350px]">
-     <img alt="Inframax field specialists implementing street marking and trenchless directional operations layout" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-main.jpg"/>
+     <img alt="Inframax field specialists implementing street marking and trenchless directional operations layout" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-main.webp"/>
     </div>
 
    </div>
@@ -68,7 +68,7 @@ export default function RoadCrossing() {
     
     {/*  Left Operational Evening Onsite View Frame  */}
     <div className="w-full shadow-xl relative overflow-hidden bg-slate-900 min-h-[400px]">
-     <img alt="Inframax engineering crew executing nighttime guidance systems validation at highway shoulder checkpoint" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-key-capabilities.jpg"/>
+     <img alt="Inframax engineering crew executing nighttime guidance systems validation at highway shoulder checkpoint" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-key-capabilities.webp"/>
     </div>
 
     {/*  Right Capabilities Numeric Progression Column Block  */}
@@ -180,7 +180,7 @@ export default function RoadCrossing() {
 
     {/*  Right Target Content Frame matching image_455f6b.jpg survey alignment tracking action  */}
     <div className="w-full shadow-md overflow-hidden bg-gray-50 relative min-h-[400px]">
-     <img alt="Survey engineering worker verifying reference string metrics across asphalt tracking plane pathways" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-technical-highlights.jpg"/>
+     <img alt="Survey engineering worker verifying reference string metrics across asphalt tracking plane pathways" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-road-crossing-technical-highlights.webp"/>
     </div>
 
    </div>
@@ -202,7 +202,7 @@ export default function RoadCrossing() {
      {/*  Application Item 1  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Oil & gas pipeline crossings" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.png"/>
+       <img alt="Oil & gas pipeline crossings" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Oil &amp; gas pipeline crossings
@@ -212,7 +212,7 @@ export default function RoadCrossing() {
      {/*  Application Item 2  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Water transmission pipelines" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-transmission-infra.png"/>
+       <img alt="Water transmission pipelines" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-transmission-infra.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Water transmission pipelines
@@ -222,7 +222,7 @@ export default function RoadCrossing() {
      {/*  Application Item 3  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Sewer and drainage infrastructure" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-sewer-water-network.png"/>
+       <img alt="Sewer and drainage infrastructure" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-sewer-water-network.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Sewer and drainage infrastructure
@@ -232,7 +232,7 @@ export default function RoadCrossing() {
      {/*  Application Item 4  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Electrical and communication conduits" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-telecommunications-infra.png"/>
+       <img alt="Electrical and communication conduits" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-telecommunications-infra.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Electrical and communication conduits
@@ -242,7 +242,7 @@ export default function RoadCrossing() {
      {/*  Application Item 5 (Spans column left alignment track on secondary matrix row)  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300 lg:col-start-1">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Utility network expansion beneath roads" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-network-expansion.png"/>
+       <img alt="Utility network expansion beneath roads" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-network-expansion.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Utility network expansion beneath roads

@@ -7,7 +7,7 @@ import { useGSAP } from "@gsap/react";
 const slides = [
   {
     id: 1,
-    image: "/inframax/assets/images/home-hero-slide-01.jpg",
+    image: "/inframax/assets/images/home-hero-slide-01.webp",
     title: "Leading HDD Infrastructure Solutions in the UAE",
     description: (
       <>
@@ -21,7 +21,7 @@ const slides = [
   },
   {
     id: 2,
-    image: "/inframax/assets/images/home-hero-slide-02.jpg",
+    image: "/inframax/assets/images/home-hero-slide-02.webp",
     title: "Advanced HDD Guidance – ParaTrack Technology",
     description: (
       <>
@@ -33,7 +33,7 @@ const slides = [
   },
   {
     id: 3,
-    image: "/inframax/assets/images/home-hero-slide-03.jpg",
+    image: "/inframax/assets/images/home-hero-slide-03.webp",
     title: "Precision HDD Monitoring & Guidance",
     description: (
       <>

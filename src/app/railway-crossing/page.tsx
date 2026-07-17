@@ -14,7 +14,7 @@ export default function RailwayCrossing() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/services-railway-crossing-header.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/services-railway-crossing-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[400px] flex items-end justify-center text-center">
@@ -48,7 +48,7 @@ export default function RailwayCrossing() {
 
     {/*  Right Hand Side Machine Frame  */}
     <div className="w-full shadow-sm bg-gray-50 overflow-hidden relative min-h-[350px]">
-     <img alt="Inframax high-capacity trenchless drilling rig executing railway crossing alignment" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-main.jpg"/>
+     <img alt="Inframax high-capacity trenchless drilling rig executing railway crossing alignment" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-main.webp"/>
     </div>
 
    </div>
@@ -68,7 +68,7 @@ export default function RailwayCrossing() {
     
     {/*  Left Pipeline Trench View Frame  */}
     <div className="w-full shadow-xl relative overflow-hidden bg-slate-900 min-h-[400px]">
-     <img alt="Large diameter heavy steel pipeline alignment crossing inside excavated corridor" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-key-capabilities.jpg"/>
+     <img alt="Large diameter heavy steel pipeline alignment crossing inside excavated corridor" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-key-capabilities.webp"/>
     </div>
 
     {/*  Right Capabilities Numeric Column Block  */}
@@ -184,7 +184,7 @@ export default function RailwayCrossing() {
 
     {/*  Right Content Frame (Crawler Rig)  */}
     <div className="w-full shadow-md overflow-hidden bg-gray-50 relative min-h-[400px]">
-     <img alt="Aerial top-down view of heavy compact directional drilling track rig setup" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-technical-highlights.jpg"/>
+     <img alt="Aerial top-down view of heavy compact directional drilling track rig setup" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-railway-crossing-technical-highlights.webp"/>
     </div>
 
    </div>
@@ -206,7 +206,7 @@ export default function RailwayCrossing() {
      {/*  Application Card 1  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[190px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Gas and oil pipelines under railway track" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.png"/>
+       <img alt="Gas and oil pipelines under railway track" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Gas and oil pipelines under railway track
@@ -216,7 +216,7 @@ export default function RailwayCrossing() {
      {/*  Application Card 2  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[190px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Utility infrastructure crossings" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-infra-crossings.png"/>
+       <img alt="Utility infrastructure crossings" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-infra-crossings.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Utility infrastructure crossings
@@ -226,7 +226,7 @@ export default function RailwayCrossing() {
      {/*  Application Card 3  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[190px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Water and sewer pipelines beneath rail corridors" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-sewer-rail-corridors.png"/>
+       <img alt="Water and sewer pipelines beneath rail corridors" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-sewer-rail-corridors.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Water and sewer pipelines beneath rail corridors

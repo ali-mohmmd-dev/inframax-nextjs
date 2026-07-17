@@ -14,7 +14,7 @@ export default function ParatrackSystems() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-hero-paratrack-slide.png')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-hero-paratrack-slide.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[420px] md:pb-[90px] md:min-h-[450px] flex items-end">
@@ -51,7 +51,7 @@ export default function ParatrackSystems() {
 
     {/*  Right Graphic Frame Section matching image_455081.jpg view  */}
     <div className="w-full shadow-sm bg-gray-100 overflow-hidden relative aspect-[4/3] lg:aspect-auto lg:h-full min-h-[320px]">
-     <img alt="ParaTrack Multiple Magnetic Tracking Hardware Assembly on site location" className="w-full h-full object-cover" src="/inframax/assets/images/paratrack-system-inside-01.jpeg"/>
+     <img alt="ParaTrack Multiple Magnetic Tracking Hardware Assembly on site location" className="w-full h-full object-cover" src="/inframax/assets/images/paratrack-system-inside-01.webp"/>
     </div>
 
    </div>
@@ -60,7 +60,7 @@ export default function ParatrackSystems() {
   {/*  â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• 
        KEY FEATURES DIRECTORY VIEW (DEEP-BLUE LAYERING)
   â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â•   */}
-  <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden" style={{"backgroundImage":"url('/inframax/assets/images/home-featured-works-background.jpg')"}}>
+  <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden" style={{"backgroundImage":"url('/inframax/assets/images/home-featured-works-background.webp')"}}>
    
 
 
@@ -68,7 +68,7 @@ export default function ParatrackSystems() {
     
     {/*  Left Graphical Screen Rig Element Frame matching image_4550a4.jpg layout  */}
     <div className="lg:col-span-5 w-full shadow-2xl relative overflow-hidden bg-slate-900 rounded-sm">
-     <img alt="ParaTrack real-time tracking interface monitoring hardware arrays setup" className="w-full h-auto object-contain" src="/inframax/assets/images/paratrack-system-inside-02.jpeg"/>
+     <img alt="ParaTrack real-time tracking interface monitoring hardware arrays setup" className="w-full h-auto object-contain" src="/inframax/assets/images/paratrack-system-inside-02.webp"/>
     </div>
 
     {/*  Right Features Index Rows Data Column Layering  */}
@@ -178,7 +178,7 @@ export default function ParatrackSystems() {
 
     {/*  Right Closer Image Assembly Block matching image_4550e1.jpg perspective  */}
     <div className="lg:col-span-6 w-full shadow-md overflow-hidden bg-gray-50 aspect-video rounded-none">
-     <img alt="ParaTrack interface console box paired alongside field compute system terminals" className="w-full h-full object-cover" src="/inframax/assets/images/paratrack-system-inside-03.jpeg"/>
+     <img alt="ParaTrack interface console box paired alongside field compute system terminals" className="w-full h-full object-cover" src="/inframax/assets/images/paratrack-system-inside-03.webp"/>
     </div>
 
    </div>

@@ -8,44 +8,39 @@ const SECTORS = [
     title: "Road Crossing",
     href: "/roadcrossing",
     icon: "/inframax/assets/images/home-sectors-road-crossing-icon.svg",
-    image: "/inframax/assets/images/home-sectors-road-crossing-image.jpg",
+    image: "/inframax/assets/images/home-sectors-road-crossing-image.webp",
   },
   {
     title: "Water Channel & Marine Crossing",
     href: "/Water-channel-Marine-Crossing",
     icon: "/inframax/assets/images/home-sectors-water-channel-icon.svg",
-    image: "/inframax/assets/images/home-sectors-water-channel-image.jpg",
+    image: "/inframax/assets/images/home-sectors-water-channel-image.webp",
   },
   {
     title: "Railway Crossing",
     href: "/railway-crossing",
     icon: "/inframax/assets/images/home-sectors-railway-crossing-icon.svg",
-    image: "/inframax/assets/images/home-sectors-railway-crossing-image.jpg",
+    image: "/inframax/assets/images/home-sectors-railway-crossing-image.webp",
   },
   {
     title: "Highway Crossings",
     href: "/highway-crossings",
     icon: "/inframax/assets/images/home-sectors-highway-crossing-icon.svg",
-    image: "/inframax/assets/images/home-sectors-highway-crossing-image.jpeg",
+    image: "/inframax/assets/images/home-sectors-highway-crossing-image.webp",
   },
   {
     title: "Urban & Congested Utility Zones",
     href: "/Urban-Congested-Utility-Zones",
-    icon: "/inframax/assets/images/home-major-crossing-icon-03.png",
-    image: "/inframax/assets/images/services-urban-utility-header.jpg",
+    icon: "/inframax/assets/images/home-major-crossing-icon-03.webp",
+    image: "/inframax/assets/images/services-urban-utility-header.webp",
   },
   {
     title: "Landscape & Bridge Crossings",
     href: "/landscape-bridge-crossings",
-    icon: "/inframax/assets/images/home-major-crossing-icon-04.png",
-    image: "/inframax/assets/images/services-landscape-bridge-header.jpg",
+    icon: "/inframax/assets/images/home-major-crossing-icon-04.webp",
+    image: "/inframax/assets/images/services-landscape-bridge-header.webp",
   },
-  {
-    title: "Micro Tunneling",
-    href: "/services",
-    icon: "/inframax/assets/images/home-major-crossing-icon-01.png",
-    image: "/inframax/assets/images/home-engineering-drilling-capability.jpeg",
-  },
+
  
 ];
 

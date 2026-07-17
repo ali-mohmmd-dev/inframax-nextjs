@@ -153,7 +153,7 @@ export default function Services() {
      </div>
 
      {/*  Card 7: Micro Tunneling  */}
-     <div className="bg-white p-8 flex flex-col justify-between shadow-[0_4px_25px_rgba(0,0,0,0.05)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(0,0,0,0.1)] relative overflow-hidden group">
+     {/* <div className="bg-white p-8 flex flex-col justify-between shadow-[0_4px_25px_rgba(0,0,0,0.05)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(0,0,0,0.1)] relative overflow-hidden group">
       <div className="absolute top-0 left-0 h-[3px] bg-dark-blue w-0 group-hover:w-full transition-all duration-300 ease-out"></div>
       <div>
        <div className="w-14 h-14 mb-6">
@@ -169,7 +169,7 @@ export default function Services() {
         Read More
        </a>
       </div>
-     </div>
+     </div> */}
 
     </div>
    </div>
@@ -239,7 +239,7 @@ export default function Services() {
      {/*  Right image side  */}
      <div className="w-full">
       <div className="relative w-full aspect-[4/3] bg-gray-100 overflow-hidden shadow-md rounded-md">
-       <img alt="Inframax onsite trenchless machinery operation" className="w-full h-full object-cover" src="/inframax/assets/images/home-why-inframax-main.jpg"/>
+       <img alt="Inframax onsite trenchless machinery operation" className="w-full h-full object-cover" src="/inframax/assets/images/home-why-inframax-main.webp"/>
       </div>
      </div>
 

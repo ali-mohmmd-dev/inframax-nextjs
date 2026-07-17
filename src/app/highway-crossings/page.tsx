@@ -14,7 +14,7 @@ export default function HighwayCrossings() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-highway-crossing-header.jpeg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-highway-crossing-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[380px] flex items-end justify-center text-center">
@@ -47,7 +47,7 @@ export default function HighwayCrossings() {
 
       {/*  Right image block  */}
       <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[350px]">
-       <img alt="Inframax highway crossing drilling setup onsite" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-main.jpg"/>
+       <img alt="Inframax highway crossing drilling setup onsite" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-main.webp"/>
       </div>
 
      </div>
@@ -69,7 +69,7 @@ export default function HighwayCrossings() {
      
      {/*  Left side: Project Site Execution Photo  */}
      <div className="w-full relative aspect-[4/3] bg-slate-900 overflow-hidden shadow-md">
-      <img alt="Infrastructure alignment pipelines layout pit" className="w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-key-capabilities.jpg"/>
+      <img alt="Infrastructure alignment pipelines layout pit" className="w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-key-capabilities.webp"/>
      </div>
 
      {/*  Right side: Numeric Capabilities List  */}
@@ -156,7 +156,7 @@ export default function HighwayCrossings() {
 
      {/*  Right side: On-site Alignment Photo  */}
      <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[400px]">
-      <img alt="Trenchless alignment drilling path excavation pit" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-technical-highlights.jpg"/>
+      <img alt="Trenchless alignment drilling path excavation pit" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-highway-crossing-technical-highlights.webp"/>
      </div>
       
      </div>
@@ -177,7 +177,7 @@ export default function HighwayCrossings() {
      <div className="bg-white border border-gray-100 p-8 flex flex-col items-center justify-center text-center shadow-sm relative min-h-[160px] group transition-all duration-300 hover:-translate-y-1 hover:shadow-md cursor-default">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[3px] w-0 bg-dark-blue-bg transition-all duration-300 group-hover:w-full"></div>
       <div className="h-12 w-auto mb-4 flex items-center justify-center">
-       <img alt="Oil and gas pipelines beneath highways" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.png"/>
+       <img alt="Oil and gas pipelines beneath highways" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-oil-gas-pipelines-beneath-highways.webp"/>
       </div>
       <p className="caption-text !font-bold text-[#222222] group-hover:text-dark-blue transition-colors duration-200 leading-snug max-w-[220px]">
        Oil and gas pipelines beneath highways
@@ -188,7 +188,7 @@ export default function HighwayCrossings() {
      <div className="bg-white border border-gray-100 p-8 flex flex-col items-center justify-center text-center shadow-sm relative min-h-[160px] group transition-all duration-300 hover:-translate-y-1 hover:shadow-md cursor-default">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[3px] w-0 bg-dark-blue-bg transition-all duration-300 group-hover:w-full"></div>
       <div className="h-12 w-auto mb-4 flex items-center justify-center">
-       <img alt="Water transmission infrastructure" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-transmission-infra.png"/>
+       <img alt="Water transmission infrastructure" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-water-transmission-infra.webp"/>
       </div>
       <p className="caption-text !font-bold text-[#222222] group-hover:text-dark-blue transition-colors duration-200 leading-snug max-w-[220px]">
        Water transmission infrastructure
@@ -199,7 +199,7 @@ export default function HighwayCrossings() {
      <div className="bg-white border border-gray-100 p-8 flex flex-col items-center justify-center text-center shadow-sm relative min-h-[160px] group transition-all duration-300 hover:-translate-y-1 hover:shadow-md cursor-default">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 h-[3px] w-0 bg-dark-blue-bg transition-all duration-300 group-hover:w-full"></div>
       <div className="h-12 w-auto mb-4 flex items-center justify-center">
-       <img alt="Utility network expansion" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-network-expansion.png"/>
+       <img alt="Utility network expansion" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-icon-utility-network-expansion.webp"/>
       </div>
       <p className="caption-text !font-bold text-[#222222] group-hover:text-dark-blue transition-colors duration-200 leading-snug max-w-[220px]">
        Utility network expansion

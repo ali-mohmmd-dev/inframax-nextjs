@@ -14,7 +14,7 @@ export default function WaterChannelMarineCrossing() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-water-channel-header.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-water-channel-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[400px] flex items-end justify-center text-center">
@@ -48,7 +48,7 @@ export default function WaterChannelMarineCrossing() {
 
     {/*  Right Hand Side Operational Image Frame  */}
     <div className="w-full shadow-sm bg-gray-50 overflow-hidden relative min-h-[350px]">
-     <img alt="Inframax shoreline marine crossing logistics and support vessels" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-water-channel-main.jpg"/>
+     <img alt="Inframax shoreline marine crossing logistics and support vessels" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-water-channel-main.webp"/>
     </div>
 
    </div>
@@ -68,7 +68,7 @@ export default function WaterChannelMarineCrossing() {
     
     {/*  Left Hand Marine Diagram Overlay Layout  */}
     <div className="w-full shadow-xl relative overflow-hidden bg-slate-900 min-h-[400px]">
-     <img alt="Marine mapping path 733LM total length 4W 225MM pipeline overlay" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-water-channel-main.jpg"/>
+     <img alt="Marine mapping path 733LM total length 4W 225MM pipeline overlay" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-water-channel-main.webp"/>
     </div>
 
     {/*  Right Hand Progressive Capability Metrics Rows  */}
@@ -184,7 +184,7 @@ export default function WaterChannelMarineCrossing() {
 
     {/*  Right Target Content Frame matching image_456706.jpg heavy field logistics  */}
     <div className="w-full shadow-md overflow-hidden bg-gray-50 relative min-h-[400px]">
-     <img alt="Marine heavy pipeline installations assembly and on-site engineering crew alignment work" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/home-major-crossing-main.jpeg"/>
+     <img alt="Marine heavy pipeline installations assembly and on-site engineering crew alignment work" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/home-major-crossing-main.webp"/>
     </div>
 
    </div>
@@ -206,7 +206,7 @@ export default function WaterChannelMarineCrossing() {
      {/*  Application Card 1  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Water transmission icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-water-transmission.png"/>
+       <img alt="Water transmission icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-water-transmission.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Water transmission pipelines
@@ -216,7 +216,7 @@ export default function WaterChannelMarineCrossing() {
      {/*  Application Card 2  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Sewer marine pipelines icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-sewer-marine-pipelines.png"/>
+       <img alt="Sewer marine pipelines icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-sewer-marine-pipelines.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Sewer outfalls and marine pipelines
@@ -226,7 +226,7 @@ export default function WaterChannelMarineCrossing() {
      {/*  Application Card 3  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Oil and gas crossings icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-oil-gas-crossings.png"/>
+       <img alt="Oil and gas crossings icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-oil-gas-crossings.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Oil &amp; gas infrastructure crossings
@@ -236,7 +236,7 @@ export default function WaterChannelMarineCrossing() {
      {/*  Application Card 4  */}
      <div className="bg-white p-8 flex flex-col items-center justify-center text-center shadow-sm border border-gray-100 min-h-[180px] hover:shadow-md transition-shadow duration-300">
       <div className="h-12 w-auto mb-4 flex items-center justify-center opacity-75">
-       <img alt="Utility canals coastal icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-utility-canals-coastal.png"/>
+       <img alt="Utility canals coastal icon" className="h-12 w-auto object-contain" src="/inframax/assets/images/services-category-utility-canals-coastal.webp"/>
       </div>
       <h3 className="caption-text !font-bold text-[#222222] tracking-wide leading-tight px-2">
        Utility pipelines beneath canals and coastal zones

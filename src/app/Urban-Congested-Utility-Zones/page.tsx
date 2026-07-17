@@ -14,7 +14,7 @@ export default function UrbanCongestedUtilityZones() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/services-urban-utility-header.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{"backgroundImage": "url('/inframax/assets/images/services-urban-utility-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[380px] flex items-end justify-center text-center">
@@ -49,7 +49,7 @@ export default function UrbanCongestedUtilityZones() {
 
       {/*  Right image block  */}
       <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[350px]">
-       <img alt="Inframax urban utility project site execution operations" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-main.jpg"/>
+       <img alt="Inframax urban utility project site execution operations" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-main.webp"/>
       </div>
 
      </div>
@@ -71,7 +71,7 @@ export default function UrbanCongestedUtilityZones() {
      
       {/*  Left side: Project Site Photo  */}
       <div className="w-full bg-slate-900 overflow-hidden shadow-md relative min-h-[400px]">
-       <img alt="High-density urban utility pipeline distribution assemblies" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-key-capabilities.jpg"/>
+       <img alt="High-density urban utility pipeline distribution assemblies" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-key-capabilities.webp"/>
       </div>
 
      {/*  Right side: Numeric Capabilities List  */}
@@ -158,7 +158,7 @@ export default function UrbanCongestedUtilityZones() {
 
      {/*  Right side: On-site Pipeline Distribution Photo  */}
       <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[400px]">
-       <img alt="Inframax high density utility tracking and logistics field layout" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-technical-highlights.jpg"/>
+       <img alt="Inframax high density utility tracking and logistics field layout" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-urban-utility-technical-highlights.webp"/>
       </div>
 
     </div>

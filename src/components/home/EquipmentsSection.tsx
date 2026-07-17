@@ -7,7 +7,7 @@ export default function EquipmentsSection() {
     <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-16">
      <div className="w-full lg:w-1/2">
       <div className="relative w-full aspect-[4/3] bg-slate-100 overflow-hidden shadow-sm">
-       <img alt="Inframax field operations and drilling rig setup" className="w-full h-full object-cover" src="/inframax/assets/images/home-why-inframax-main.jpg"/>
+       <img alt="Inframax field operations and drilling rig setup" className="w-full h-full object-cover" src="/inframax/assets/images/home-why-inframax-main.webp"/>
       </div>
      </div>
      <div className="w-full lg:w-1/2 flex flex-col space-y-8 lg:pl-6">

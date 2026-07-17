@@ -5,31 +5,31 @@ const MACHINERY_DATA = [
   {
     title: "DWTX 360 Ton HDD Rig - 1 No.",
     capacity: "360 Ton HDD Rig Capacity",
-    image: "/inframax/assets/images/home-machinery-rig-full.png",
+    image: "/inframax/assets/images/home-machinery-rig-full.webp",
     href: "/plant-and-equipment",
   },
   {
     title: "DWTX 240 Ton HDD Rig - 1 No.",
     capacity: "240 Ton HDD Rig Capacity",
-    image: "/inframax/assets/images/home-machinery-rig-full.png",
+    image: "/inframax/assets/images/home-machinery-rig-full.webp",
     href: "/plant-and-equipment",
   },
   {
     title: "DWTX 160 Ton HDD Rig - 2 Nos.",
     capacity: "160 Ton HDD Rig Capacity",
-    image: "/inframax/assets/images/home-machinery-rig-full.png",
+    image: "/inframax/assets/images/home-machinery-rig-full.webp",
     href: "/plant-and-equipment",
   },
   {
     title: "Vermeer 130x150 HDD Rig - 2 Nos.",
     capacity: "60,000 kg Pullback Capacity",
-    image: "/inframax/assets/images/home-machinery-vermeer-rig.png",
+    image: "/inframax/assets/images/home-machinery-vermeer-rig.webp",
     href: "/plant-and-equipment",
   },
   {
     title: "Vermeer 36x50 HDD Rig - 2 Nos.",
     capacity: "180 kN Pullback Capacity",
-    image: "/inframax/assets/images/home-machinery-vermeer-rig.png",
+    image: "/inframax/assets/images/home-machinery-vermeer-rig.webp",
     href: "/plant-and-equipment",
   },
 ];

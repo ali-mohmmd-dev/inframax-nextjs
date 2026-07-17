@@ -7,16 +7,16 @@ gsap.registerPlugin(useGSAP);
 
 export default function ClientsSection() {
   const baseImages = [
-    { src: "/inframax/assets/images/home-certifications-logo-01.jpg", alt: "ADNOC documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-abu-dhabi-municipality.jpg", alt: "Abu Dhabi Municipality documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-logo-02.jpg", alt: "Al Ain Distribution Company documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-logo-03.jpg", alt: "Abu Dhabi Sewerage Services documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-logo-05.jpg", alt: "Etisalat documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-logo-06.jpg", alt: "du documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-ministry-infrastructure.jpg", alt: "Musanada documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-sws.jpg", alt: "Armed Forces documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-sewa.jpg", alt: "Department of Transport documentation badge logo" },
-    { src: "/inframax/assets/images/home-certifications-tabreed.jpg", alt: "Regulation and Supervision Bureau documentation badge logo" }
+    { src: "/inframax/assets/images/home-certifications-logo-01.webp", alt: "ADNOC documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-abu-dhabi-municipality.webp", alt: "Abu Dhabi Municipality documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-logo-02.webp", alt: "Al Ain Distribution Company documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-logo-03.webp", alt: "Abu Dhabi Sewerage Services documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-logo-05.webp", alt: "Etisalat documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-logo-06.webp", alt: "du documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-ministry-infrastructure.webp", alt: "Musanada documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-sws.webp", alt: "Armed Forces documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-sewa.webp", alt: "Department of Transport documentation badge logo" },
+    { src: "/inframax/assets/images/home-certifications-tabreed.webp", alt: "Regulation and Supervision Bureau documentation badge logo" }
   ];
 
   const images = [...baseImages, ...baseImages, ...baseImages];

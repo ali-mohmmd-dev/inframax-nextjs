@@ -5,7 +5,7 @@ export default function PlantAndEquipment() {
     <>
       {/*  HERO SECTION  */}
       <section className="w-full relative overflow-hidden bg-black flex items-center">
-        <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-featured-works-banner.png')"}}></div>
+        <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-featured-works-banner.webp')"}}></div>
    <div className="hero-overlay"></div>
         <div className="container mx-auto px-4 relative z-10 w-full">
           <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[380px] flex items-end">
@@ -23,7 +23,7 @@ export default function PlantAndEquipment() {
         <div className="container mx-auto px-4 max-w-7xl">
           <div className="flex flex-col lg:flex-row items-center">
             <div className="w-full lg:w-[40%] relative z-0">
-              <img src="/inframax/assets/images/projects-gallery-image-01.jpg" alt="High-Capacity HDD Rigs" className="w-full h-[450px] lg:h-[690px] object-cover shadow-lg rounded-sm" />
+              <img src="/inframax/assets/images/projects-gallery-image-01.webp" alt="High-Capacity HDD Rigs" className="w-full h-[450px] lg:h-[690px] object-cover shadow-lg rounded-sm" />
             </div>
             <div className="w-full lg:w-[65%] relative z-10 lg:-ml-[5%] mt-8 lg:mt-0">
               <div className="bg-[#004b87] p-8 md:p-14 text-white shadow-xl">
@@ -98,7 +98,7 @@ export default function PlantAndEquipment() {
               </div>
             </div>
             <div className="w-full lg:w-[40%] relative z-0">
-              <img src="/inframax/assets/images/projects-gallery-image-02.jpg" alt="Advanced Drilling Equipment" className="w-full h-[450px] lg:h-[750px] object-cover shadow-lg rounded-sm" />
+              <img src="/inframax/assets/images/projects-gallery-image-02.webp" alt="Advanced Drilling Equipment" className="w-full h-[450px] lg:h-[750px] object-cover shadow-lg rounded-sm" />
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@ export default function PlantAndEquipment() {
         <div className="container mx-auto px-4 max-w-7xl">
           <div className="flex flex-col lg:flex-row items-center">
             <div className="w-full lg:w-[40%] relative z-0">
-              <img src="/inframax/assets/images/projects-gallery-image-03.jpg" alt="Mud Systems" className="w-full h-[450px] lg:h-[660px] object-cover shadow-lg rounded-sm" />
+              <img src="/inframax/assets/images/projects-gallery-image-03.webp" alt="Mud Systems" className="w-full h-[450px] lg:h-[660px] object-cover shadow-lg rounded-sm" />
             </div>
             <div className="w-full lg:w-[65%] relative z-10 lg:-ml-[5%] mt-8 lg:mt-0">
               <div className="bg-[#004b87] p-10 md:p-14 text-white shadow-xl">
@@ -202,7 +202,7 @@ export default function PlantAndEquipment() {
               </div>
             </div>
             <div className="w-full lg:w-[40%] relative z-0">
-              <img src="/inframax/assets/images/projects-gallery-image-04.jpg" alt="Precision Reaming Tools" className="w-full h-[450px] lg:h-[840px] object-cover shadow-lg rounded-sm" />
+              <img src="/inframax/assets/images/projects-gallery-image-04.webp" alt="Precision Reaming Tools" className="w-full h-[450px] lg:h-[840px] object-cover shadow-lg rounded-sm" />
             </div>
           </div>
         </div>
@@ -243,7 +243,7 @@ export default function PlantAndEquipment() {
               </ul>
             </div>
             <div className="w-full lg:w-1/2">
-              <img src="/inframax/assets/images/projects-our-capability-main.jpg" alt="Our Capabilities" className="w-full h-auto object-cover shadow-xl rounded-sm border border-gray-100" />
+              <img src="/inframax/assets/images/projects-our-capability-main.webp" alt="Our Capabilities" className="w-full h-auto object-cover shadow-xl rounded-sm border border-gray-100" />
             </div>
           </div>
         </div>

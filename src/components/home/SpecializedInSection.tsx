@@ -71,7 +71,7 @@ export default function SpecializedInSection() {
      </div>
      <div className="w-full lg:w-1/2">
       <div className="relative w-full aspect-[4/3] bg-gray-100 overflow-hidden shadow-sm">
-       <img alt="Engineering and Drilling heavy industrial site machinery" className="w-full h-full object-cover" src="/inframax/assets/images/home-engineering-drilling-capability.jpeg"/>
+       <img alt="Engineering and Drilling heavy industrial site machinery" className="w-full h-full object-cover" src="/inframax/assets/images/home-engineering-drilling-capability.webp"/>
       </div>
      </div>
     </div>

@@ -7,8 +7,8 @@ gsap.registerPlugin(useGSAP);
 
 export default function StatsSection() {
   const baseImages = [
-    { src: "/inframax/assets/images/home-featured-works-banner.png", alt: "Featured industrial contract slide work 1" },
-    { src: "/inframax/assets/images/home-featured-works-image-02.jpg", alt: "Featured industrial contract slide work 2" }
+    { src: "/inframax/assets/images/home-featured-works-banner.webp", alt: "Featured industrial contract slide work 1" },
+    { src: "/inframax/assets/images/home-featured-works-image-02.webp", alt: "Featured industrial contract slide work 2" }
   ];
   
   // Triple the array to allow seamless wrapping (prev and next without hitting ends)
@@ -93,7 +93,7 @@ export default function StatsSection() {
   };
 
   return (
-    <section className="w-full bg-dark-blue-bg pt-16 pb-16 lg:pt-20 lg:pb-[60px] relative overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('/inframax/assets/images/home-featured-works-background.jpg')" }}>
+    <section className="w-full bg-dark-blue-bg pt-16 pb-16 lg:pt-20 lg:pb-[60px] relative overflow-hidden bg-cover bg-center" style={{ backgroundImage: "url('/inframax/assets/images/home-featured-works-background.webp')" }}>
       
       <div className="w-full relative z-10">
         <div className="flex flex-col lg:flex-row items-stretch gap-6 lg:gap-12">

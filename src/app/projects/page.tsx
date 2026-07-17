@@ -149,21 +149,21 @@ const projectsData = [
 ];
 
 const galleryData = [
-  { src: "/inframax/assets/images/project-grid-images (1).jpeg", alt: "Inframax project showcase 1" },
-  { src: "/inframax/assets/images/project-grid-images (2).jpeg", alt: "Inframax project showcase 2" },
-  { src: "/inframax/assets/images/project-grid-images (3).jpeg", alt: "Inframax project showcase 3" },
-  { src: "/inframax/assets/images/project-grid-images (4).jpeg", alt: "Inframax project showcase 4" },
-  { src: "/inframax/assets/images/project-grid-images (5).jpeg", alt: "Inframax project showcase 5" },
-  { src: "/inframax/assets/images/project-grid-images (6).jpeg", alt: "Inframax project showcase 6" },
-  { src: "/inframax/assets/images/project-grid-images (7).jpeg", alt: "Inframax project showcase 7" },
-  { src: "/inframax/assets/images/project-grid-images (8).jpeg", alt: "Inframax project showcase 8" },
-  { src: "/inframax/assets/images/project-grid-images (9).jpeg", alt: "Inframax project showcase 9" },
-  { src: "/inframax/assets/images/project-grid-images (10).jpeg", alt: "Inframax project showcase 10" },
-  { src: "/inframax/assets/images/project-grid-images (11).jpeg", alt: "Inframax project showcase 11" },
-  { src: "/inframax/assets/images/project-grid-images (12).jpeg", alt: "Inframax project showcase 12" },
-  { src: "/inframax/assets/images/project-grid-images (13).jpeg", alt: "Inframax project showcase 13" },
-  { src: "/inframax/assets/images/project-grid-images (14).jpeg", alt: "Inframax project showcase 14" },
-  { src: "/inframax/assets/images/project-grid-images (15).jpeg", alt: "Inframax project showcase 15" }
+  { src: "/inframax/assets/images/project-grid-images%20(1).webp", alt: "Inframax project showcase 1" },
+  { src: "/inframax/assets/images/project-grid-images%20(2).webp", alt: "Inframax project showcase 2" },
+  { src: "/inframax/assets/images/project-grid-images%20(3).webp", alt: "Inframax project showcase 3" },
+  { src: "/inframax/assets/images/project-grid-images%20(4).webp", alt: "Inframax project showcase 4" },
+  { src: "/inframax/assets/images/project-grid-images%20(5).webp", alt: "Inframax project showcase 5" },
+  { src: "/inframax/assets/images/project-grid-images%20(6).webp", alt: "Inframax project showcase 6" },
+  { src: "/inframax/assets/images/project-grid-images%20(7).webp", alt: "Inframax project showcase 7" },
+  { src: "/inframax/assets/images/project-grid-images%20(8).webp", alt: "Inframax project showcase 8" },
+  { src: "/inframax/assets/images/project-grid-images%20(9).webp", alt: "Inframax project showcase 9" },
+  { src: "/inframax/assets/images/project-grid-images%20(10).webp", alt: "Inframax project showcase 10" },
+  { src: "/inframax/assets/images/project-grid-images%20(11).webp", alt: "Inframax project showcase 11" },
+  { src: "/inframax/assets/images/project-grid-images%20(12).webp", alt: "Inframax project showcase 12" },
+  { src: "/inframax/assets/images/project-grid-images%20(13).webp", alt: "Inframax project showcase 13" },
+  { src: "/inframax/assets/images/project-grid-images%20(14).webp", alt: "Inframax project showcase 14" },
+  { src: "/inframax/assets/images/project-grid-images%20(15).webp", alt: "Inframax project showcase 15" }
 ];
 
 export default function Projects() {
@@ -186,7 +186,7 @@ export default function Projects() {
     <>
       {/* HERO SECTION */}
       <section className="w-full relative overflow-hidden bg-black flex items-center">
-        <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-hero-slide-01.jpg')"}}></div>
+        <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/home-hero-slide-01.webp')"}}></div>
    <div className="hero-overlay"></div>
         <div className="container mx-auto px-4 relative z-10 w-full">
           <div className="pb-[50px] min-h-[550px] md:pb-[90px] md:min-h-[500px] flex items-end">
@@ -228,7 +228,7 @@ export default function Projects() {
       </section>
 
       {/* PROJECTS GRID SECTION */}
-      <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden" style={{ backgroundImage: "url('/inframax/assets/images/home-featured-works-background.jpg')" }}>
+      <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden" style={{ backgroundImage: "url('/inframax/assets/images/home-featured-works-background.webp')" }}>
         
 
         <div className="container mx-auto px-4 max-w-7xl relative z-10">

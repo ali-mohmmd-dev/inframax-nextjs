@@ -19,9 +19,9 @@ export const metadata: Metadata = {
   title: "Inframax UAE",
   description: "Leading HDD Infrastructure Solutions in the UAE",
   icons: {
-    icon: "/inframax/assets/images/global-favicon-192x192.png",
-    shortcut: "/inframax/assets/images/global-favicon-32x32.png",
-    apple: "/inframax/assets/images/global-favicon-180x180.png",
+    icon: "/inframax/assets/images/global-favicon-192x192.webp",
+    shortcut: "/inframax/assets/images/global-favicon-32x32.webp",
+    apple: "/inframax/assets/images/global-favicon-180x180.webp",
   },
 };
 
@@ -33,8 +33,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" href="/inframax/assets/images/global-favicon-192x192.png" />
-        <link rel="apple-touch-icon" href="/inframax/assets/images/global-favicon-180x180.png" />
+        <link rel="icon" type="image/png" href="/inframax/assets/images/global-favicon-192x192.webp" />
+        <link rel="apple-touch-icon" href="/inframax/assets/images/global-favicon-180x180.webp" />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"

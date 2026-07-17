@@ -55,7 +55,7 @@ export default function Header() {
           <div className="logo max-w-[180px] shrink-0">
             <Link href="/">
               <Image
-                src="/inframax/assets/images/global-logo.png"
+                src="/inframax/assets/images/global-logo.webp"
                 alt="INFRAMAX GENERAL CONTRACTING LLC"
                 width={180}
                 height={60}

@@ -29,14 +29,14 @@ export default function Footer() {
   return (
     <footer
       className="w-full bg-dark-blue-bg pt-16 pb-8 text-white relative overflow-hidden bg-cover bg-left"
-      style={{ backgroundImage: "url('/inframax/assets/images/home_footer_bg.jpg')" }}
+      style={{ backgroundImage: "url('/inframax/assets/images/global-footer-background.webp')" }}
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 mb-8 lg:mb-12">
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-8 items-start">
           <div className="w-full lg:w-[55%] flex flex-col space-y-6 shrink-0">
             <div className="flex flex-col space-y-2 items-start">
               <Image
-                src="/inframax/assets/images/global-logo.png"
+                src="/inframax/assets/images/global-logo.webp"
                 alt="INFRAMAX GENERAL CONTRACTING LLC Logo"
                 width={180}
                 height={60}
@@ -111,7 +111,7 @@ export default function Footer() {
               </div>
               <div className="whitespace-nowrap">
                 <span className="text-white/60 font-normal">Land Line:</span>
-                <span className="font-semibold ml-1">+971 2 513 4954</span>
+                <span className="font-semibold ml-1">+971 2 513 4954 &nbsp;|&nbsp; +971 55 654 7007</span>
               </div>
               <div className="whitespace-nowrap">
                 <span className="text-white/60 font-normal">FAX:</span>

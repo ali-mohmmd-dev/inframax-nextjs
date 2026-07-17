@@ -4,43 +4,43 @@ const crossingProjects = [
   {
     title: "2,700 LM Gas Pipeline Crossing",
     subtitle: "ADNOC (Sahil & Asab)",
-    icon: "/inframax/assets/images/home-major-crossing-icon-01.png",
+    icon: "/inframax/assets/images/home-major-crossing-icon-01.webp",
     alt: "Gas Pipeline Crossing icon",
   },
   {
     title: "1,553 LM Highway Crossing",
     subtitle: "Abu Dhabi / Al Ain Road",
-    icon: "/inframax/assets/images/home-major-crossing-icon-02.png",
+    icon: "/inframax/assets/images/home-major-crossing-icon-02.webp",
     alt: "Highway Crossing icon",
   },
   {
     title: "2,925 LM Road E311",
     subtitle: "Abu Dhabi",
-    icon: "/inframax/assets/images/home-major-crossing-icon-03.png",
+    icon: "/inframax/assets/images/home-major-crossing-icon-03.webp",
     alt: "Road E311 icon",
   },
   {
     title: "1,373 LM Road Crossing",
     subtitle: "Abu Dhabi",
-    icon: "/inframax/assets/images/home-major-crossing-icon-04.png",
+    icon: "/inframax/assets/images/home-major-crossing-icon-04.webp",
     alt: "Road Crossing icon",
   },
   {
     title: "Saadiyat & Ramhan Island",
     subtitle: "Water Crossings",
-    icon: "/inframax/assets/images/home-major-crossing-icon-05.png",
+    icon: "/inframax/assets/images/home-major-crossing-icon-05.webp",
     alt: "Saadiyat & Ramhan Island icon",
   },
 ];
 
 export default function FeaturedWorksSection() {
   return (
-  <section className="w-full bg-dark-blue-bg pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/home-featured-works-background.jpg')"}}>
+  <section className="w-full bg-dark-blue-bg pt-16 pb-16 lg:pt-20 lg:pb-20 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/home-featured-works-background.webp')"}}>
    <div className="container mx-auto relative z-10">
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
      <div className="w-full h-full flex items-center">
       <div className="w-full h-auto lg:h-full relative shadow-xl overflow-hidden rounded-sm">
-       <img alt="Major pipeline and infrastructure construction crossing project site" className="w-full h-full object-cover" src="/inframax/assets/images/home-featured-works-banner.png"/>
+       <img alt="Major pipeline and infrastructure construction crossing project site" className="w-full h-full object-cover" src="/inframax/assets/images/home-featured-works-banner.webp"/>
       </div>
      </div>
      <div className="w-full lg:pl-4">

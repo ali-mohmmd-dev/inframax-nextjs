@@ -2,7 +2,7 @@ import React from "react";
 
 export default function CTASection() {
   return (
-  <section className="w-full relative overflow-hidden bg-slate-900 bg-cover bg-center bg-no-repeat" style={{"backgroundImage":"linear-gradient(rgba(0, 50, 95, 0.75), rgba(0, 35, 70, 0.85)), url('/inframax/assets/images/services-trenchless-solutions-banner.jpg')"}}>
+  <section className="w-full relative overflow-hidden bg-slate-900 bg-cover bg-center bg-no-repeat" style={{"backgroundImage":"linear-gradient(rgba(0, 50, 95, 0.75), rgba(0, 35, 70, 0.85)), url('/inframax/assets/images/services-trenchless-solutions-banner.webp')"}}>
    <div className="absolute inset-0 bg-[#002346]/30 mix-blend-multiply pointer-events-none">
    </div>
    <div className="container mx-auto px-4 pt-16 pb-16 lg:pt-20 lg:pb-20 relative z-10 flex flex-col items-center justify-center text-center">

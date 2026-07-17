@@ -16,7 +16,7 @@ export default function About() {
        HERO SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/about-intro-image-01.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/about-intro-image-01.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[380px] flex items-end">
@@ -69,10 +69,10 @@ export default function About() {
     {/*  Right: two stacked images  */}
     <div className="flex flex-col space-y-4">
      <div className="relative w-full aspect-video bg-gray-100 overflow-hidden shadow-sm">
-      <img alt="Inframax HDD drilling rig at construction site" className="w-full h-full object-cover" src="/inframax/assets/images/about%20inframax%20image%201.jpeg"/>
+      <img alt="Inframax HDD drilling rig at construction site" className="w-full h-full object-cover" src="/inframax/assets/images/about%20inframax%20image%201.webp"/>
      </div>
      <div className="relative w-full aspect-video bg-gray-100 overflow-hidden shadow-sm">
-      <img alt="Inframax large-diameter pipeline installation" className="w-full h-full object-cover" src="/inframax/assets/images/about%20inframax%20image%202.png"/>
+      <img alt="Inframax large-diameter pipeline installation" className="w-full h-full object-cover" src="/inframax/assets/images/about%20inframax%20image%202.webp"/>
      </div>
     </div>
 
@@ -119,7 +119,7 @@ export default function About() {
   {/*  â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• 
        HDD PROCESS
   â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â•   */}
-  <section className="w-full bg-[#004b87] pt-20 pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/global-projects-blue-background.jpg')"}}>
+  <section className="w-full bg-[#004b87] pt-20 pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/global-projects-blue-background.webp')"}}>
    
    <div className="container mx-auto px-4 max-w-7xl relative z-10">
     <h2 className="heading-2 text-white text-center uppercase mb-20 font-bold tracking-wide">
@@ -240,7 +240,7 @@ export default function About() {
     </div>
     
     <div className="w-full relative min-h-[450px]">
-     <img alt="Inframax performance engineer" className="absolute inset-0 w-full h-full object-cover shadow-sm" src="/inframax/assets/images/about-progress-quality-image.jpg"/>
+     <img alt="Inframax performance engineer" className="absolute inset-0 w-full h-full object-cover shadow-sm" src="/inframax/assets/images/about-progress-quality-image.webp"/>
     </div>
    </div>
   </section>
@@ -252,7 +252,7 @@ export default function About() {
    <div className="container mx-auto px-4 max-w-7xl grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
     
     <div className="w-full relative min-h-[450px] order-2 lg:order-1 mt-8 lg:mt-0">
-     <img alt="Safety equipment hard hat" className="absolute inset-0 w-full h-full object-cover shadow-sm" src="/inframax/assets/images/about-health-safety-image.jpg"/>
+     <img alt="Safety equipment hard hat" className="absolute inset-0 w-full h-full object-cover shadow-sm" src="/inframax/assets/images/about-health-safety-image.webp"/>
     </div>
 
     <div className="flex flex-col space-y-6 lg:pl-16 py-4 order-1 lg:order-2">
@@ -316,7 +316,7 @@ export default function About() {
   {/*  â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• 
        LEADERSHIP & GOVERNANCE
   â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â•   */}
-  <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-24 lg:pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/about-leadership-background.jpg')"}}>
+  <section className="w-full bg-[#004b87] pt-16 pb-16 lg:pt-24 lg:pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/about-leadership-background.webp')"}}>
   
    <div className="container mx-auto px-4 max-w-7xl relative z-10">
     <h2 className="heading-2 text-white text-center uppercase mb-16 font-bold tracking-wide">
@@ -351,7 +351,7 @@ export default function About() {
       <div className="absolute top-0 left-0 h-full w-0 bg-[#004b87] transition-all duration-500 ease-in-out group-hover:w-full z-0"></div>
 
       <div className="m-auto mb-4 w-[140px] h-[140px] rounded-full border-[6px] border-white shadow-sm overflow-hidden bg-white z-10">
-       <img src="/inframax/assets/images/about-head-divisions-photo.png" alt="Head Division" className="w-full h-full object-cover"/>
+       <img src="/inframax/assets/images/about-head-divisions-photo.webp" alt="Head Division" className="w-full h-full object-cover"/>
       </div>
       
       <div className="relative z-10">
@@ -372,7 +372,7 @@ export default function About() {
   {/*  â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• 
        TESTIMONIALS
   â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â• â•   */}
-  <section className="w-full bg-[#00a3e0] pt-16 pb-20 lg:pt-24 lg:pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/global-projects-blue-background.jpg')"}}>
+  <section className="w-full bg-[#00a3e0] pt-16 pb-20 lg:pt-24 lg:pb-24 relative overflow-hidden bg-cover bg-center" style={{"backgroundImage":"url('/inframax/assets/images/global-projects-blue-background.webp')"}}>
    <div className="absolute inset-0 bg-[#00a3e0]/85 mix-blend-multiply"></div>
    <div className="absolute inset-0 bg-[#00a3e0]/40"></div>
    <div className="container mx-auto px-4 max-w-4xl text-center relative z-10">

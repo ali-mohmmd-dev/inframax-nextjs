@@ -14,7 +14,7 @@ export default function LandscapeBridgeCrossings() {
        HERO BANNER SECTION
   â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•  */}
   <section className="w-full relative overflow-hidden bg-black flex items-center">
-   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-landscape-bridge-header.jpg')"}}></div>
+   <div className="absolute inset-0 bg-cover bg-center" style={{"backgroundImage": "url('/inframax/assets/images/services-landscape-bridge-header.webp')"}}></div>
    <div className="hero-overlay"></div>
    <div className="container mx-auto px-4 relative z-10 w-full">
     <div className="pb-[50px] min-h-[380px] md:pb-[90px] md:min-h-[380px] flex items-end justify-center text-center">
@@ -47,7 +47,7 @@ export default function LandscapeBridgeCrossings() {
 
      {/*  Right image block  */}
      <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[350px]">
-      <img alt="Inframax yellow specialized drilling rig setup onsite" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-main.jpg"/>
+      <img alt="Inframax yellow specialized drilling rig setup onsite" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-main.webp"/>
      </div>
 
     </div>
@@ -69,7 +69,7 @@ export default function LandscapeBridgeCrossings() {
      
      {/*  Left side: Project Site Execution Photo  */}
      <div className="w-full bg-slate-900 overflow-hidden shadow-md relative min-h-[400px]">
-      <img alt="Pipeline structural installation pit crossing process" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-key-capabilities.jpg"/>
+      <img alt="Pipeline structural installation pit crossing process" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-key-capabilities.webp"/>
      </div>
 
      {/*  Right side: Numeric Capabilities List  */}
@@ -156,7 +156,7 @@ export default function LandscapeBridgeCrossings() {
 
      {/*  Right side: On-site Pipeline Structural Verification Photo  */}
      <div className="w-full bg-gray-100 overflow-hidden shadow-sm relative min-h-[400px]">
-      <img alt="Trenchless drilling alignment verification site water element" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-technical-highlights.jpg"/>
+      <img alt="Trenchless drilling alignment verification site water element" className="absolute inset-0 w-full h-full object-cover" src="/inframax/assets/images/services-landscape-bridge-technical-highlights.webp"/>
      </div>
 
     </div>
